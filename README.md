@@ -1,8 +1,8 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
+ <!-- <img src="#"></a>  -->
 </p>
-<h3 align="center">PHARMIX</h3>
+<h2 align="center">PHARMIX</h2>
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 ---
 
 
-## :book: Índice
+## Índice
 
 - [Protótipo Navegável](#prototipo)
 - [Sobre o problema](#problem_statement)
@@ -23,7 +23,7 @@
 
 
 <br>
-💰
+
 ## Protótipo Navegável Figma <a name = "protitpo"></a>
 
 
